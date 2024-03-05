@@ -5,7 +5,7 @@ import util.HttpHandler;
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
-import static network.HttpServer.PORT;
+import static common.HttpServer.PORT;
 
 public class HttpServiceImpl implements HttpService {
     @Override

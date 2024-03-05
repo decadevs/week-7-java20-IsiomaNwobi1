@@ -2,8 +2,8 @@ package util;
 
 import java.io.*;
 import java.net.Socket;
-import static network.HttpServer.HTML_FILE_PATH;
-import static network.HttpServer.JSON_FILE_PATH;
+import static common.HttpServer.HTML_FILE_PATH;
+import static common.HttpServer.JSON_FILE_PATH;
 
 public class HttpHandler extends Thread {
 

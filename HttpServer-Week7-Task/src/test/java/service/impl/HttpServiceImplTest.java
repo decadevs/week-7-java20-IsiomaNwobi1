@@ -1,7 +1,7 @@
 package service.impl;
 
 import org.junit.jupiter.api.Test;
-import static network.HttpServer.PORT;
+import static common.HttpServer.PORT;
 import static org.junit.jupiter.api.Assertions.*;
 
 class HttpServiceImplTest {
